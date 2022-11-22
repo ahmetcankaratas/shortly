@@ -14,7 +14,9 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 
 Desktop
 
+<img width="1438" alt="image" src="https://user-images.githubusercontent.com/53529387/203344254-eb9c71e1-9899-4904-9720-eb02a5d5d926.png">
 
 Mobile
 
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/53529387/203344584-c133fd31-84d2-4245-b72f-509d790eced7.png">
 
