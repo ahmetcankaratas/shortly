@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-starter",
+  "version": "1.0.0",
+  "description": "Starter structure for tailwind projects",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./styles/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./styles/main.css --watch"
+  },
+  "keywords": [],
+  "author": "Ahmet Can Karataş",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.3"
+  }
+}
